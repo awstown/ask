@@ -8,7 +8,7 @@ from facepy import GraphAPI
 # Quick and dirty authentication - Get a USER access_token from facebook
 # Go to: https://developers.facebook.com/tools/explorer 
 # Copy/paste token below
-ACCESS_TOKEN = 'CAACEdEose0cBADXxAL00y7l8LdfQCXs2NpOYxlvtJGHrVgXZCkWrlKSP0TGgbxBBGiBr7cLkQCZC29Jt29GNODJc2Ec7UOUMNepIuvtDnCjQNaDV6iBekZCEydX76IfOKm3pAMRbnSlBGJeookuRVn3ezbcyOhuHwVYg5ur2ZAtLKRJQq4T9B9303Ja5fvwi1TIMIZAmvuTUaZANF2GMZArmHtwDDBFKKsZD'
+ACCESS_TOKEN = '<ACCESS_TOKEN>'
 
 # Create FB Graph object and get friends statuses
 # *** NEED TO HANDLE PAGINATION ***
